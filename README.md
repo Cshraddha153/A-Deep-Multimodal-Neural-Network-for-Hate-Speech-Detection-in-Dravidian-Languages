@@ -1,0 +1,2 @@
+# A-Deep-Multimodal-Neural-Network-for-Hate-Speech-Detection-in-Dravidian-Languages
+Developed a deep multimodal neural network for hate speech detection in Dravidian languages by extracting features from audio and text using transformer models. The fused representations were used to train a neural network for classification into Hate (Gender, Political, Religious, Personal Defamation) and Non-Hate. 
