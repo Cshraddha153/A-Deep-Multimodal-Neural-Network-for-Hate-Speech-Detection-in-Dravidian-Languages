@@ -19,6 +19,14 @@ A final classification layer to predict Hate Speech categories (Gender, Politica
 Additionally, we compare the MMC model’s performance against traditional machine learning classifiers such as KNN, Random Forest (RF), Naïve Bayes (NB), Logistic Regression (LR), and Support Vector Machine (SVM).
 This multimodal approach enhances hate speech detection by leveraging both linguistic and acoustic cues, making the model more robust in identifying hate speech across Dravidian languages.
 
+# Rank List
+### Team Name - MNLP
+1. Tamil Rank list of Hate Speech detection - [Tamil Rank List.pdf](https://github.com/user-attachments/files/19090534/Tamil.Rank.List.pdf)
+
+2. Malayalam Rank list of Hate Speech Misogyny detection - [Malayalam Rank List.pdf](https://github.com/user-attachments/files/19090532/Malayalam.Rank.List.pdf)
+
+3. Telgu Rank list of Hate Speech Misogyny detection - [Telugu Rank List.pdf](https://github.com/user-attachments/files/19090536/Telugu.Rank.List.pdf)
+   
 # Research Paper
 [Multimodal_Hate_Speech_Detection (1).pdf](https://github.com/user-attachments/files/18813643/Multimodal_Hate_Speech_Detection.1.pdf)
  (Under Review at NAACL 2025)
