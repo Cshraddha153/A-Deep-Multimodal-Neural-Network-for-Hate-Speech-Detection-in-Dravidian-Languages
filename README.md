@@ -27,6 +27,11 @@ This multimodal approach enhances hate speech detection by leveraging both lingu
 
 3. Telgu Rank list of Hate Speech Misogyny detection - [Telugu Rank List.pdf](https://github.com/user-attachments/files/19090536/Telugu.Rank.List.pdf)
    
-# Research Paper
-[Multimodal_Hate_Speech_Detection (1).pdf](https://github.com/user-attachments/files/18813643/Multimodal_Hate_Speech_Detection.1.pdf)
- (Under Review at NAACL 2025)
+# Research Paper 
+@inproceedings{chauhan2025MNLP,
+  title={MNLP@DravidianLangTech 2025: A Deep Multimodal Neural Network for Hate Speech Detection in Dravidian Languages},
+  author={Chauhan, Shraddha and Kumar, Abhinav},
+  booktitle={Proceedings of Fifth Workshop on Speech and Language Technologies for Dravidian Languages (NAACL 2025)},
+  pages={},
+  year={2025}
+}
