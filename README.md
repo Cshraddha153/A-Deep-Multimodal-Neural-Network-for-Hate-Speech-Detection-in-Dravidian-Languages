@@ -61,15 +61,29 @@ This multimodal approach enhances hate speech detection by leveraging both lingu
 2. Malayalam Rank list of Hate Speech Misogyny detection - [Malayalam Rank List](https://github.com/user-attachments/files/19090532/Malayalam.Rank.List.pdf)
 3. Telgu Rank list of Hate Speech Misogyny detection - [Telugu Rank List](https://github.com/user-attachments/files/19090536/Telugu.Rank.List.pdf)
    
-# Research Paper 
+# Citation
 
-**Paper Pdf:-**[Multimodal_Hate_Speech_Detection_Paper (1).pdf](https://github.com/user-attachments/files/19719425/Multimodal_Hate_Speech_Detection_Paper.1.pdf)
-
-
-@inproceedings{chauhan2025MNLP,
-  title={MNLP@DravidianLangTech 2025: A Deep Multimodal Neural Network for Hate Speech Detection in Dravidian Languages},
-  author={Chauhan, Shraddha and Kumar, Abhinav},
-  booktitle={Proceedings of Fifth Workshop on Speech and Language Technologies for Dravidian Languages (NAACL 2025)},
-  pages={},
-  year={2025}
+@inproceedings{chauhan-kumar-2025-mnlp,
+    title = "{MNLP}@{D}ravidian{L}ang{T}ech 2025: A Deep Multimodal Neural Network for Hate Speech Detection in {D}ravidian Languages",
+    author = "Chauhan, Shraddha  and
+      Kumar, Abhinav",
+    editor = "Chakravarthi, Bharathi Raja  and
+      Priyadharshini, Ruba  and
+      Madasamy, Anand Kumar  and
+      Thavareesan, Sajeetha  and
+      Sherly, Elizabeth  and
+      Rajiakodi, Saranya  and
+      Palani, Balasubramanian  and
+      Subramanian, Malliga  and
+      Cn, Subalalitha  and
+      Chinnappa, Dhivya",
+    booktitle = "Proceedings of the Fifth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages",
+    month = may,
+    year = "2025",
+    address = "Acoma, The Albuquerque Convention Center, Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.dravidianlangtech-1.41/",
+    pages = "237--242",
+    ISBN = "979-8-89176-228-2",
+    abstract = "Social media hate speech is a significant issue because it may incite violence, discrimination, and social unrest. Anonymity and reach of such platforms enable the rapid spread of harmful content, targeting individuals or communities based on race, gender, religion, or other attributes. The detection of hate speech is very important for the creation of safe online environments, protection of marginalized groups, and compliance with legal and ethical standards. This paper aims to analyze complex social media content using a combination of textual and audio features. The experimental results establish the effectiveness of the proposed approach, with F1-scores reaching 72{\%} for Tamil, 77{\%} for Malayalam, and 36{\%} for Telugu. Such results strongly indicate that multimodal methodologies have significant room for improvement in hate speech detection in resource-constrained languages and underscore the need to continue further research into this critical area."
 }
